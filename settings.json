@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "UnstableSMPanarchy.aternos.me",
